@@ -27,7 +27,7 @@ composer update jberall/yii2-signature-draw will only update this file.
 Usage
 -----
 
-The js files are from See [demos here](http://brinley.github.io/jSignature/ "Signature Capture Demos").
+The js files are from brinley.github.io See [demos here](http://brinley.github.io/jSignature/ "Signature Capture Demos").
 
 Once the extension is installed, simply use it in your code by  :
 
