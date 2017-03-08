@@ -13,7 +13,7 @@ class SignatureDrawAsset extends AssetBundle
 //    public $basePath = '@webroot';
 //    public $baseUrl = '@web';
    
-    public $sourcePath = '@vendor/jberall/yii2-signature-draw/src/js/';
+    public $sourcePath = __DIR__ .'/../js/';
     public $css = [
 //        'css/site.css',
     ];
@@ -52,9 +52,5 @@ class SignatureDrawAsset extends AssetBundle
         parent::registerAssetFiles($view);
     }
 
-    public function init() {
-          parent::init();
-           
-//          die(__METHOD__ . ' ' . $this->sourcePath);
-    }
+
 }
