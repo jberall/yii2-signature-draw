@@ -32,6 +32,7 @@ The js files are from brinley.github.io See [demos here](http://brinley.github.i
 Once the extension is installed, simply use it in your code by  :
 
 ```php
+Create a jSignature Canvas.
 <?= \jberall\signaturedraw\SignatureDraw::widget(); ?>
 
 You can use your own view file 
