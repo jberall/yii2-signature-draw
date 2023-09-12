@@ -18,7 +18,6 @@ class SignatureDrawAsset extends AssetBundle
 //        'css/site.css',
     ];
     public $js = [
-        'src/jSignature.js',
         'src/plugins/jSignature.CompressorBase30.js',
         'src/plugins/jSignature.CompressorSVG.js',
         'src/plugins/jSignature.UndoButton.js',
