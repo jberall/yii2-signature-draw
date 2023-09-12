@@ -1,5 +1,5 @@
 {
-    "name": "jberall/yii2-signature-draw",
+    "name": "dmkdesign/yii2-signature-draw",
     "description": "Renders a Signature Pad using jSignature",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","jSignature","canvas"],
